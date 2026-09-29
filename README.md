@@ -51,7 +51,3 @@ For questions or to report a problem, [open an issue](https://github.com/VoidLan
 ## Maintainers and Contributions
 
 This project is maintained by [VoidLance](https://github.com/VoidLance). Contributions are welcome: open an issue to discuss a change, then submit a pull request with a clear summary and steps to verify it in a browser.
-
-## License
-
-See the [LICENSE](LICENSE) file for license information.
